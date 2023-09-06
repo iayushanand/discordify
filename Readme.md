@@ -27,3 +27,13 @@ async def spotif(ctx: commands.Context, member: discord.Member = None):
 
 bot.run("token")
 ```
+
+### Comparision:
+
+`discord`
+
+![discord](https://media.discordapp.net/attachments/766518336329744415/1148991813399621773/IMG_20230906_201232.png?width=469&height=300)
+
+`spotify mobile notification`
+    
+![notification](https://media.discordapp.net/attachments/766518336329744415/1148991813118595182/IMG_20230906_201113.jpg?width=541&height=406)

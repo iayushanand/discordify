@@ -156,7 +156,7 @@ class Spotify:
             self.member.activities,
         )
         if not activity:
-            return False
+            return ("User is not listening to spotify", None, None)
         url = activity.track_url
         image = await self.get_from_local(self.bot, activity)
         view = discord.ui.View()
