@@ -60,3 +60,5 @@ bot.run("token")
 ### Emojify
 
 ![](https://media.discordapp.net/attachments/743817386792058971/1152893621239021598/image.png?width=382&height=265)
+
+*Emojify is directly taken and modified from [codewithswastik/emojify-bot](https://github.com/CodeWithSwastik/emojify-bot)*
