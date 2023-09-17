@@ -3,10 +3,10 @@ from setuptools import setup
 setup(
     include_package_data=True,
     name="discordify",
-    version="0.0.2",
+    version="0.1.0",
     author="Ayu Itz",
     author_email="icontactayu@gmail.com",
-    description="A Python package to retrieve detailed Spotify album images for Discord integration.",
+    description="A Python package to retrieve detailed Spotify album images and emojify images for Discord integration.",
     long_description=open("Readme.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/iayushanand/discordify",
