@@ -1,4 +1,5 @@
 from .spotify import *
+from .emojify import emojify_image
 
 __title__ = "discordify"
 __summary__ = "A Python package to retrieve detailed Spotify album images for Discord integration."
