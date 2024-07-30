@@ -1,6 +1,6 @@
 # discordify
 
-[![Downloads](https://static.pepy.tech/badge/cbvx)](https://pepy.tech/project/cbvx)
+[![Downloads](https://static.pepy.tech/badge/discordify)](https://pepy.tech/project/discordify)
 
 A Python package to retrieve detailed Spotify album images for Discord integration.
 
