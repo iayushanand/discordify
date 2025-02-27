@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     include_package_data=True,
     name="discordify",
-    version="0.1.2",
+    version="0.1.3",
     author="Ayu Itz",
     author_email="icontactayu@gmail.com",
     description="A Python package to retrieve detailed Spotify album images and emojify images for Discord integration.",
@@ -21,7 +21,7 @@ setup(
     packages=["discordify"],
     install_requires=[
         "discord.py==2.3.2",
-        "pillow==10.0.0",
+        "pillow==11.1.0",
         "cbvx==0.1.0",
     ],
     python_requires=">=3.6",
